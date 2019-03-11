@@ -17,6 +17,6 @@
 Example:
 ```
 I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
+I feel good about my code: 5
+Learned how to implement default data from API source as opposed to creating new functions.
 ```
