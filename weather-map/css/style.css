@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  background: linear-gradient(#e66465, #9198e5);
+  text-align: center;
+  height: 1500px
+}
+h1 {
+  margin-top: 50%;
+  color: white;
+}
+button {
+background-color: rgba(0, 0, 0, 0.0);
+}
